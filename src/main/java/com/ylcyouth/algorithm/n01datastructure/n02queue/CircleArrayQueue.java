@@ -1,4 +1,4 @@
-package com.ylcyouth.n01datastructure.n02queue;
+package com.ylcyouth.algorithm.n01datastructure.n02queue;
 
 /**
  * @author ylcyouth
